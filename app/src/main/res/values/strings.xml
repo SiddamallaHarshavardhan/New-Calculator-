@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">New_Calculator</string>
+    <string name="_7">7</string>
+
+    <string-array name="Price">
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+    </string-array>
+
+</resources>
